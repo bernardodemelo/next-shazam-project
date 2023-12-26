@@ -1,0 +1,26 @@
+/* [project]/src/app/index.module.css [ssr] (css) */
+.homeSearch__index__975169f2 {
+  background: linear-gradient(0deg, rgba(40, 105, 181, 1) 0%, rgba(39, 135, 247, 1) 100%);
+  min-height: 100vh;
+}
+.shazaMainDiv__index__975169f2 {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.inputDiv__index__975169f2 {
+  margin-top: 5%;
+  width: 20%;
+  display: flex;
+}
+.shazamLogo__index__975169f2 {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shazam_icon.svg/2048px-Shazam_icon.svg.png');
+  height: 300px;
+  width: 300px;
+  background-size: contain;
+}
+
+
+/*# sourceMappingURL=src_app_index_module_c1997c.css.map*/

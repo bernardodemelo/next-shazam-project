@@ -1,26 +1,3 @@
 /* [project]/src/app/page.module.css [app-client] (css) */
-.homeSearch__page__f5f955c {
-  background: linear-gradient(0deg, rgba(40, 105, 181, 1) 0%, rgba(39, 135, 247, 1) 100%);
-  min-height: 100vh;
-}
-.shazaMainDiv__page__f5f955c {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  align-items: center;
-  justify-content: center;
-}
-.inputDiv__page__f5f955c {
-  margin-top: 5%;
-  width: 20%;
-  display: flex;
-}
-.shazamLogo__page__f5f955c {
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shazam_icon.svg/2048px-Shazam_icon.svg.png');
-  height: 300px;
-  width: 300px;
-  background-size: contain;
-}
+/* unparseable [project]/src/app/page.module.css [app-client] (css) */
 
-
-/*# sourceMappingURL=src_app_page_module_d12eb7.css.map*/

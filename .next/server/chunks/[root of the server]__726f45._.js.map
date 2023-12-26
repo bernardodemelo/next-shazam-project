@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["/turbopack/[node]/.next/server/app/page/actions.js"],"sourcesContent":["__turbopack_export_value__({\n});"],"names":[],"mappings":"AAAA,2BAA2B,CAC3B"}},
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/app/index.module.css [rsc] (css module)"],"sourcesContent":["__turbopack_export_value__({\n  \"homeSearch\": \"homeSearch__index__975169f2\",\n  \"inputDiv\": \"inputDiv__index__975169f2\",\n  \"shazaMainDiv\": \"shazaMainDiv__index__975169f2\",\n  \"shazamLogo\": \"shazamLogo__index__975169f2\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA"}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 20, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 25, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

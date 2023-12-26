@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["/turbopack/[node]/.next/server/app/dashboard/[id]/page/actions.js"],"sourcesContent":["__turbopack_export_value__({\n});"],"names":[],"mappings":"AAAA,2BAA2B,CAC3B"}},
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/app/layout.js"],"sourcesContent":["export default function RootLayout({ children }) {\n  return (\n    <html lang=\"en\">\n      <body suppressHydrationWarning={true}>{children}</body>\n    </html>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS,WAAW,EAAE,QAAQ,EAAE;IAC7C,qBACE,4OAAC;QAAK,MAAK;kBACT,cAAA,4OAAC;YAAK,0BAA0B;sBAAO;;;;;;;;;;;AAG7C"}},
+    {"offset": {"line": 33, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/app/dashboard/[id]/page.js/proxy.ts"],"sourcesContent":["import { createProxy } from 'next/dist/build/webpack/loaders/next-flight-loader/module-proxy'\n\nconst proxy = createProxy(\"[project]/src/app/dashboard/[id]/page.js\")\n\n// Accessing the __esModule property and exporting $$typeof are required here.\n// The __esModule getter forces the proxy target to create the default export\n// and the $$typeof value is for rendering logic to determine if the module\n// is a client boundary.\nconst { __esModule, $$typeof } = proxy;\n\nexport { __esModule, $$typeof };\nexport default proxy;\n"],"names":[],"mappings":";;;;;;;;AAEA,MAAM,QAAQ,mNAAY;AAE1B,8EAA8E;AAC9E,6EAA6E;AAC7E,2EAA2E;AAC3E,wBAAwB;AACxB,MAAM,EAAE,UAAU,EAAE,QAAQ,EAAE,GAAG;;uCAGlB"}},
+    {"offset": {"line": 61, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 66, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 71, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

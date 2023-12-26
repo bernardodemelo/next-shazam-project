@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/app/dashboard/[id]/page.js"],"sourcesContent":["\"use client\";\n\nimport { useParams } from \"next/navigation\";\n\nexport default function ExampleClientComponent() {\n  const params = useParams();\n\n  return <div>{params.id}</div>;\n}\n"],"names":[],"mappings":";;;;;;;;AAAA;;AAIe,SAAS;;IACtB,MAAM,SAAS;IAEf,qBAAO,wLAAC;kBAAK,OAAO,EAAE;;;;;;AACxB;GAJwB;;;;;KAAA"}},
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/pages/index.js"],"sourcesContent":["import styles from \"./index.module.css\";\nimport { Input } from \"@nextui-org/input\";\nimport { Button } from \"@nextui-org/button\";\n\nexport default function Home() {\n  return (\n    <div className={styles.homeSearch}>\n      <div className={styles.shazaMainDiv}>\n        <div className={styles.shazamLogo} />\n        <div className={styles.inputDiv}>\n          <Input placeholder=\"Enter your name here... \" />\n          <Button radius=\"full\" className=\"\">\n            Button\n          </Button>\n        </div>\n      </div>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAIe,SAAS;IACtB,qBACE,kEAAC;QAAI,WAAW,OAAO,UAAU;kBAC/B,cAAA,kEAAC;YAAI,WAAW,OAAO,YAAY;;8BACjC,kEAAC;oBAAI,WAAW,OAAO,UAAU;;;;;;8BACjC,kEAAC;oBAAI,WAAW,OAAO,QAAQ;;sCAC7B;4BAAO,aAAY;;;;;;sCACnB;4BAAQ,QAAO;4BAAO,WAAU;sCAAG;;;;;;;;;;;;;;;;;;;;;;;AAO7C"}},
+    {"offset": {"line": 71, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

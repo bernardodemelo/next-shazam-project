@@ -1,0 +1,24 @@
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push([
+    "static/chunks/[next]_entry_page-loader_ts_5eacc8._.js",
+    {},
+]);
+(globalThis.TURBOPACK_CHUNK_LISTS = globalThis.TURBOPACK_CHUNK_LISTS || []).push({
+  "path": "static/chunks/[next]_entry_page-loader_ts_5eacc8._.js",
+  "chunks": [
+    "static/chunks/node_modules_@nextui-org_react-rsc-utils_dist_56cb6a._.js",
+    "static/chunks/node_modules_next_dist_b2d6ff._.js",
+    "static/chunks/node_modules_react_1cad9b._.js",
+    "static/chunks/node_modules_framer-motion_dist_es_05747e._.js",
+    "static/chunks/node_modules_@react-aria_interactions_dist_import_mjs_4c10b5._.js",
+    "static/chunks/node_modules_@nextui-org_theme_dist_d40ec8._.js",
+    "static/chunks/node_modules_tailwind-merge_dist_1ba770._.js",
+    "static/chunks/node_modules_react-dom_cjs_react-dom_development_ab7e07.js",
+    "static/chunks/node_modules_react-dom_f14d04._.js",
+    "static/chunks/node_modules_@internationalized_date_dist_import_mjs_f488bc._.js",
+    "static/chunks/node_modules_@nextui-org_shared-icons_dist_1ab780._.js",
+    "static/chunks/node_modules_1bdc77._.js",
+    "static/chunks/[root of the server]__ac4e24._.js",
+    "static/chunks/node_modules_next_dist_pages_5dd672._.js"
+  ],
+  "source": "entry"
+});

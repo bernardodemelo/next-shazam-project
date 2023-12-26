@@ -133,12 +133,10 @@ __turbopack_esm__({
     "default": ()=>Home
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/next/dist/server/future/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/next/image.js [rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$page$2e$module$2e$css__$5b$rsc$5d$__$28$css__module$29$__ = __turbopack_import__("[project]/src/app/page.module.css [rsc] (css module)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$nextui$2d$org$2f$input$2f$dist$2f$index$2e$mjs__$5b$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/@nextui-org/input/dist/index.mjs [rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$nextui$2d$org$2f$button$2f$dist$2f$index$2e$mjs__$5b$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/@nextui-org/button/dist/index.mjs [rsc] (ecmascript)");
 "__TURBOPACK__ecmascript__hoisting__location__";
-;
 ;
 ;
 ;
@@ -153,8 +151,8 @@ function Home() {
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$page$2e$module$2e$css__$5b$rsc$5d$__$28$css__module$29$__["default"].shazamLogo
                 }, void 0, false, {
                     fileName: "<[project]/src/app/page.js>",
-                    lineNumber: 10,
-                    columnNumber: 13
+                    lineNumber: 9,
+                    columnNumber: 9
                 }, this),
                 /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$rsc$5d$__$28$ecmascript$29$__["jsxDEV"]("div", {
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$page$2e$module$2e$css__$5b$rsc$5d$__$28$css__module$29$__["default"].inputDiv,
@@ -163,8 +161,8 @@ function Home() {
                             placeholder: "Enter your name here... "
                         }, void 0, false, {
                             fileName: "<[project]/src/app/page.js>",
-                            lineNumber: 12,
-                            columnNumber: 15
+                            lineNumber: 11,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$rsc$5d$__$28$ecmascript$29$__["jsxDEV"](__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$nextui$2d$org$2f$button$2f$dist$2f$index$2e$mjs__$5b$rsc$5d$__$28$ecmascript$29$__["Button"], {
                             radius: "full",
@@ -172,24 +170,24 @@ function Home() {
                             children: "Button"
                         }, void 0, false, {
                             fileName: "<[project]/src/app/page.js>",
-                            lineNumber: 13,
-                            columnNumber: 15
+                            lineNumber: 12,
+                            columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "<[project]/src/app/page.js>",
-                    lineNumber: 11,
-                    columnNumber: 13
+                    lineNumber: 10,
+                    columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "<[project]/src/app/page.js>",
-            lineNumber: 9,
-            columnNumber: 9
+            lineNumber: 8,
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "<[project]/src/app/page.js>",
-        lineNumber: 8,
+        lineNumber: 7,
         columnNumber: 5
     }, this);
 }

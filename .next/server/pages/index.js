@@ -1,0 +1,14 @@
+const CHUNK_PUBLIC_PATH = "server/pages/index.js";
+const runtime = require("../chunks/[turbopack]_runtime.js");
+runtime.loadChunk("server/chunks/node_modules_@nextui-org_react-rsc-utils_dist_468ce3._.js");
+runtime.loadChunk("server/chunks/node_modules_framer-motion_dist_es_c5dcf3._.js");
+runtime.loadChunk("server/chunks/node_modules_@nextui-org_theme_dist_ff84b5._.js");
+runtime.loadChunk("server/chunks/node_modules_tailwind-merge_dist_fc1185._.js");
+runtime.loadChunk("server/chunks/node_modules_@internationalized_date_dist_import_mjs_d73c45._.js");
+runtime.loadChunk("server/chunks/node_modules_@nextui-org_shared-icons_dist_b5c8dd._.js");
+runtime.loadChunk("server/chunks/node_modules_@nextui-org_f0e6c9._.js");
+runtime.loadChunk("server/chunks/node_modules_@react-aria_c13fdf._.js");
+runtime.loadChunk("server/chunks/node_modules_@formatjs_e87775._.js");
+runtime.loadChunk("server/chunks/node_modules_847abb._.js");
+runtime.loadChunk("server/chunks/src_pages_index_3b4254.js");
+module.exports = runtime.getOrInstantiateRuntimeModule("[project]/node_modules/next/dist/esm/build/templates/pages.js/(INNER_PAGE)/[project]/src/pages/index.js [ssr] (ecmascript) (ecmascript)", CHUNK_PUBLIC_PATH).exports;
